@@ -1,6 +1,10 @@
 ----  Data cleaning project --- :
 
-SELECT * FROM world_layoffs.layoffs; 
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2023
+
+SELECT * 
+FROM world_layoffs.layoffs; 
+
 
 --- 1 Remove Duplicates ----
 
